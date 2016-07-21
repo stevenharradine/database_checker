@@ -1,8 +1,8 @@
 <?php
-$host          = "localhost"
-$username      = "username"
-$password      = "password"
-$database_name = "dbname"
+$host          = "localhost";
+$username      = "username";
+$password      = "password";
+$database_name = "dbname";
 
 // basic code stolen from:
 // http://stackoverflow.com/questions/666811/fatal-error-class-mysqli-not-found @ 20160602 12:34 EST
