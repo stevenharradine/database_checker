@@ -52,6 +52,6 @@ if (!function_exists('mysqli_init') && !extension_loaded('mysqli')) {
   if ($mysqli_connection->connect_error) {
     echo "Not connected, error: " . $mysqli_connection->connect_error;
   } else {
-    echo "Connected.";
+    echo "MySQLi Connected.";
   }
 }
