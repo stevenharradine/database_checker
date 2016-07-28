@@ -1,8 +1,8 @@
 <?php
-$host          = "localhost"
-$username      = "username"
-$password      = "password"
-$database_name = "dbname"
+$host          = "localhost";
+$username      = "username";
+$password      = "password";
+$database_name = "dbname";
 
 
 // source: http://stackoverflow.com/questions/1475701/how-to-know-if-mysqlnd-is-the-active-driver/22499259#22499259  @ 20160720 22:50 EST
